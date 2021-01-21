@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Kamera</string>
+    <string name="action_settings">Ustawienia</string>
+    <string name="preview_description">Zdjecia i obrazy pojawia sie tutaj</string>
+    <string name="btn_take_picture">Zrob zdjecie</string>
+    <string name="btn_record_video">Zrob nagranie</string>
+</resources>
